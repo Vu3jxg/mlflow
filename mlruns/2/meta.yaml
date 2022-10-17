@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/Gaurav%20Pal/Downloads/Week2_assignment/mlruns/2
+experiment_id: '2'
+lifecycle_stage: active
+name: Titanic_mlflow_test
